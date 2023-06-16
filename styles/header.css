@@ -6,3 +6,7 @@
     background-position: center;
     display: inline-block;
 }
+
+.cabecalho{
+    background-color: var(--branco);
+}
