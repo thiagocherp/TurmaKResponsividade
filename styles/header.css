@@ -1,4 +1,4 @@
-.cabecalho{
+.cabecalho {
     display: flex;
     justify-content: space-between;
     background-color: var(--branco);
@@ -14,16 +14,21 @@
     height: 24px;
 }
 
-.conteiner{
+.conteiner {
     display: flex;
     justify-content: space-between;
 }
 
-.conteiner__imagem{
+.conteiner__imagem {
     padding: 1em;
 }
 
-.lista__menu{
-display: none;
+.lista__menu {
+    display: none;
+
+}
+
+.conteiner__botao:checked~.lista__menu{
+    display: block;
 
 }
