@@ -33,3 +33,7 @@
     display: block;
 
 }
+
+..conteiner__botao{
+    display: none;
+}
