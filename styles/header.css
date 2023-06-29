@@ -37,7 +37,7 @@
 }
 
 .lista__menu-link{
-color: var();
+color: var(--roxo);
 }
 
 .lista__menu-titulo {
