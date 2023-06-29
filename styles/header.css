@@ -14,9 +14,6 @@
     height: 24px;
 }
 
-.cabecalho__menu__titulo {
-    font-weight: 700;
-}
 
 .conteiner {
     display: flex;
@@ -32,6 +29,10 @@
     position: absolute;
     top: 100%;
     background-color: aqua;
+}
+
+.lista__menu-titulo {
+    font-weight: 700;
 }
 
 .conteiner__botao:checked~.lista__menu {
