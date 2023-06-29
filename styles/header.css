@@ -32,6 +32,12 @@
     width: 60vw;
 }
 
+.lista__menu-item {
+    padding: 1em;
+}
+
+
+
 .lista__menu-titulo {
     font-weight: 700;
 }
