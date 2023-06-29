@@ -37,11 +37,13 @@
 }
 
 .lista__menu-link{
-color: var(--roxo);
+color: var();
 }
 
 .lista__menu-titulo {
     font-weight: 700;
+    color: var(--amarelo);
+
 }
 
 .conteiner__botao:checked~.lista__menu {
