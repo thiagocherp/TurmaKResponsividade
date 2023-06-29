@@ -29,6 +29,7 @@
     position: absolute;
     top: 100%;
     background-color: var(--branco);
+    width: 60vw;
 }
 
 .lista__menu-titulo {
