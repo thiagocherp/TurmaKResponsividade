@@ -28,7 +28,7 @@
     display: none;
     position: absolute;
     top: 100%;
-    background-color: rgb(253, 253, 253);
+    background-color: var(--branco);
 }
 
 .lista__menu-titulo {
