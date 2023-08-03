@@ -55,3 +55,7 @@ color: var(--roxo);
 .conteiner__botao {
     display: none;
 }
+
+.conteiner__titulo{
+    display: none;
+}
