@@ -59,3 +59,10 @@ color: var(--roxo);
 .conteiner__titulo{
     display: none;
 }
+
+@media screen and (min-width:1024px) {
+
+    .conteiner__titulo{
+    display: block;
+    
+}
