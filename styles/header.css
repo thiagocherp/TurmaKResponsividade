@@ -37,8 +37,8 @@
     padding: 1em;
 }
 
-.lista__menu-link{
-color: var(--roxo);
+.lista__menu-link {
+    color: var(--roxo);
 }
 
 .lista__menu-titulo {
@@ -56,13 +56,21 @@ color: var(--roxo);
     display: none;
 }
 
-.conteiner__titulo{
+.conteiner__titulo {
     display: none;
 }
 
 @media screen and (min-width:1024px) {
 
-    .conteiner__titulo{
-    display: block;
+    .conteiner__titulo {
+        display: block;
+    }
+
+    .cabecalho__menu{
+        display: none;
+    }
     
+    .conteiner__favorito{
+        display: none;
+    }
 }
