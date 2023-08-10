@@ -104,4 +104,8 @@
         display: block;
         width: auto;
     }
+
+    .opcao__botao{
+        display: none;
+    }
 }
