@@ -99,4 +99,8 @@
         text-decoration: none;
         color: var(--preto);
     }
+
+    .opcao__botao:checked~.lista__menu{
+        display: block;
+    }
 }
