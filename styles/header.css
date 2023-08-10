@@ -83,4 +83,9 @@
     .conteiner__favorito{
         display: none;
     }
+
+    .opcoes{
+        display: flex;
+        
+    }
 }
