@@ -100,12 +100,12 @@
         color: var(--preto);
     }
 
-    .opcao__botao:checked~.lista__menu{
+    .opcoes__botao:checked~.lista__menu{
         display: block;
         width: auto;
     }
 
-    .opcao__botao{
+    .opcoes__botao{
         display: none;
     }
 }
